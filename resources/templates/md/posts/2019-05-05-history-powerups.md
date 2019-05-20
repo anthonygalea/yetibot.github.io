@@ -1,8 +1,5 @@
-In the latest series of yetibot.core releases we focused on power-ups to history
-across all surfaces:
-
-- yetibot.core 0.5.22
-
+In the latest release, `0.5.31` we focused on power-ups to history across all
+surfaces:
 
 - `history` command
 - GraphQL `history` resource
